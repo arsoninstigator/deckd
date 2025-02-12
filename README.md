@@ -59,4 +59,28 @@ no, this project is beginner-friendly and is made for people of all levels of kn
 - configuring display settings – optimizing resolution and performance for a lightweight system
 - setting up the keyboard & touchpad – usb, bluetooth, or gpio-based input
 - basic linux commands – navigating the terminal, managing files, and installing software
-<br>
+
+### week four: power system & portability
+- battery power vs. wall power – choosing a mobile power source for the pi zero 2 w
+- building a rechargeable system – using a power bank or custom lithium-ion battery pack
+
+### week five: cyberdeck enclosure & customization
+- enclosure assembly – designing a case for the raspberry pi zero 2 w and accessories
+- customizing with leds & personal touches – adding aesthetic & functional mods
+- cable management & compact layouts – making everything fit neatly
+
+### week six: software & personalization
+- essential linux tools for cyberdecks – lightweight programs for raspberry pi
+- offline & on-the-go tools – setting up a lightweight, self-contained system
+  -  connecting to wi-fi & bluetooth – setting up internet access and pairing devices
+  -  using ssh & remote access – controlling your cyberdeck from another computer
+  -  basic file sharing – transferring files between your cyberdeck and other devices
+  -  adding useful software – installing text editors, media players, and lightweight apps
+- themes & ui customization – personalizing setup by changing wallpapers, terminal themes, and shortcuts
+- security basics – hardening your cyberdeck (firewall, encryption, secure ssh)
+
+### week seven: final touches
+- debugging & final adjustments – troubleshooting, fixing issues, refining designs
+- future expansion ideas – upgrading, adding new features, and continuous learning
+
+### week eight: ✈️✈️✈️ SAN FRANSISCO !!!
